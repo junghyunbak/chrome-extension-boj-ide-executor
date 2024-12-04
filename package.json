@@ -1,11 +1,11 @@
 {
-  "name": "chrome-extension-boilerplate-react",
-  "version": "5.0.4",
-  "description": "A chrome extension boilerplate built with React 18, Webpack 5, and Webpack Dev Server 4",
+  "name": "chrome-extension-boj-ide-executor",
+  "version": "0.0.1",
+  "description": "Chrome extension to open boj-ide in baekjoon",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lxieyang/chrome-extension-boilerplate-react.git"
+    "url": "https://github.com/junghyunbak/chrome-extension-boj-ide-executor"
   },
   "scripts": {
     "build": "node utils/build.js",
