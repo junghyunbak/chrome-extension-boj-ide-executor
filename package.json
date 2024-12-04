@@ -1,7 +1,7 @@
 {
   "name": "chrome-extension-boj-ide-executor",
   "version": "1.0.0",
-  "description": "Chrome extension to open boj-ide in baekjoon",
+  "description": "백준 문제 페이지에서 BOJ IDE를 바로 열기 위한 확장 프로그램",
   "license": "MIT",
   "repository": {
     "type": "git",
